@@ -299,7 +299,7 @@ This step is important because it begins the process of adding your new changes 
  
 2. The command line will provide feedback on the status of your push and tell you that your local branch is now set up to track with the version of the branch we moved into the repository.<p>&nbsp;</p>
  
-3. Navigate to the DX Demo repository **[(link)](https://github.optum.com/SalesforceCoE/DX_Demo)**.<p>&nbsp;</p>
+3. Navigate to the DX Demo repository **[(link)](https://github.com/jpc-79/sfdx_example)**.<p>&nbsp;</p>
     >A yellow banner will appear displaying that your local branch had recent pushes to the repository.
 4. Click the green `Compare & Pull Request` button.<p>&nbsp;</p>  ![Git Compare](/screenshots/Git_Compare_And_Pull.png)
 ![Git Create Pull Request](/screenshots/Git_Create_Pull_Request2.png)
@@ -325,11 +325,3 @@ Once the reviewer is satisfied with the changes, they will approve the pull requ
 - [About Pull Requests | GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 - [Creating a Pull Request | GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 - [Merging a Pull Request with a Merge Queue | GitHub Docs](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
-This e-mail, including attachments, may include confidential and/or
-proprietary information, and may be used only by the person or entity
-to which it is addressed. If the reader of this e-mail is not the intended
-recipient or intended recipient’s authorized agent, the reader is hereby
-notified that any dissemination, distribution or copying of this e-mail is
-prohibited. If you have received this e-mail in error, please notify the
-sender by replying to this message and delete this e-mail immediately.
